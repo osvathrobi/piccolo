@@ -1,5 +1,15 @@
-piccolo
-=======
+piccolo - with WS3801
+=====================
+
+Adafruit's piccolo (Tiny Arduino music visualizer) with Digital LED Pixels WS2801.
+
+[Adafruit-WS2801-Library]: https://github.com/adafruit/Adafruit-WS2801-Library
+
+[Video]: http://www.youtube.com/watch?v=ggA5KG5BHcA
+
+
+Original Piccolo readme
+=================================
 
 Tiny Arduino music visualizer!
 
